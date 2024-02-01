@@ -113,7 +113,6 @@ Score,Method,Member,Comment
 0.50137,mlp,anya-23-ct,
 0.50137,perceptron,anthonysukotjo,
 0.50137,mlp,anthonysukotjo,
-0.50137,perceptron,annetta-zheng,
 0.50137,mlp,annetta-zheng,
 0.50137,perceptron,andrewbpark73,
 0.50137,mlp,andrewbpark73,
@@ -197,3 +196,6 @@ Score,Method,Member,Comment
 0.50137,mlp,AmonRS,
 0.50137,perceptron,AmirFone,
 0.50137,mlp,AmirFone,
+0.50137,perceptron,AlphaWhiskyLou,
+0.50137,mlp,AlphaWhiskyLou,
+,perceptron,annetta-zheng,Error computing accuracy!
