@@ -1,6 +1,9 @@
 Score,Method,Member,Comment
+0.71269,perceptron,bwoody13,
 0.05258,perceptron,zhouaad,
 0.05258,mlp,zhouaad,
+0.05258,perceptron,zhangdah,
+0.05258,mlp,zhangdah,
 0.05258,perceptron,zezhili,
 0.05258,mlp,zezhili,
 0.05258,perceptron,yueqih999,
@@ -206,4 +209,3 @@ Score,Method,Member,Comment
 0.05258,mlp,AmirFone,
 0.05258,perceptron,AlphaWhiskyLou,
 0.05258,mlp,AlphaWhiskyLou,
-,perceptron,bwoody13,Error computing accuracy!
