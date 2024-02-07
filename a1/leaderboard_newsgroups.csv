@@ -165,7 +165,6 @@ Score,Method,Member,Comment
 0.05258,mlp,MingzheSun,
 0.05258,perceptron,Mercury-W-C-J,
 0.05258,mlp,Mercury-W-C-J,
-0.05258,perceptron,MaximClouser,
 0.05258,mlp,MaximClouser,
 0.05258,perceptron,Marcozc19,
 0.05258,mlp,Marcozc19,
@@ -187,6 +186,8 @@ Score,Method,Member,Comment
 0.05258,mlp,K7S3,
 0.05258,perceptron,JoyJoyWang,
 0.05258,mlp,JoyJoyWang,
+0.05258,perceptron,JerryGgzm,
+0.05258,mlp,JerryGgzm,
 0.05258,perceptron,Jasoniee,
 0.05258,mlp,Jasoniee,
 0.05258,perceptron,Hbattini,
@@ -213,3 +214,4 @@ Score,Method,Member,Comment
 0.05258,mlp,AlphaWhiskyLou,
 ,perceptron,iamyufan,Error computing accuracy!
 ,mlp,iamyufan,Error computing accuracy!
+,perceptron,MaximClouser,Error computing accuracy!
