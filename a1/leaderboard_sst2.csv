@@ -1,13 +1,16 @@
 Score,Method,Member,Comment
+0.7845,mlp,ethan-yz-hao,
 0.7801,mlp,annetta-zheng,
 0.76141,perceptron,lucassmulders,
+0.75811,perceptron,ethan-yz-hao,
 0.75316,perceptron,bwoody13,
 0.74986,perceptron,annetta-zheng,
 0.74382,mlp,bwoody13,
 0.72787,perceptron,JoyJoyWang,
 0.72457,perceptron,MaximClouser,
+0.71853,mlp,echo-cool,
 0.71028,perceptron,keyxxxxx,
-0.69049,perceptron,echo-cool,
+0.69434,perceptron,echo-cool,
 0.6707,perceptron,erinmurphy11,
 0.62892,perceptron,iamyufan,
 0.50137,perceptron,zhouaad,
@@ -106,8 +109,6 @@ Score,Method,Member,Comment
 0.50137,mlp,hangvtran,
 0.50137,perceptron,gabidb,
 0.50137,mlp,gabidb,
-0.50137,perceptron,ethan-yz-hao,
-0.50137,mlp,ethan-yz-hao,
 0.50137,mlp,erinmurphy11,
 0.50137,perceptron,chrystalquek,
 0.50137,mlp,chrystalquek,
@@ -218,4 +219,3 @@ Score,Method,Member,Comment
 0.50137,perceptron,AlphaWhiskyLou,
 0.50137,mlp,AlphaWhiskyLou,
 ,mlp,iamyufan,Error computing accuracy!
-,mlp,echo-cool,Error computing accuracy!
