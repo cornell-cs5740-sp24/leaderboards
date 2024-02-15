@@ -93,7 +93,6 @@ Score,Method,Member,Comment
 0.05258,mlp,jrfeibelman,
 0.05258,perceptron,jonathanchen301,
 0.05258,mlp,jonathanchen301,
-0.05258,perceptron,jioffe502,
 0.05258,mlp,jioffe502,
 0.05258,perceptron,jaekim123,
 0.05258,mlp,jaekim123,
@@ -227,6 +226,7 @@ Score,Method,Member,Comment
 0.04288,mlp,MaximClouser,
 0.0,mlp,bwoody13,
 ,perceptron,tz275,Error computing accuracy!
+,perceptron,jioffe502,Error computing accuracy!
 ,perceptron,iamyufan,Error computing accuracy!
 ,mlp,iamyufan,Error computing accuracy!
 ,perceptron,WenjieWangX,Error computing accuracy!
