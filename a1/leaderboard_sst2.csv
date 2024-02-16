@@ -21,6 +21,7 @@ Score,Method,Member,Comment
 0.74052,mlp,wingyiuc,
 0.74052,mlp,GSYfate,
 0.73832,mlp,angkywilliam,
+0.73612,mlp,JoyJoyWang,
 0.73557,perceptron,angkywilliam,
 0.73447,perceptron,tz275,
 0.73392,mlp,hyh628,
@@ -225,4 +226,3 @@ Score,Method,Member,Comment
 ,mlp,iamyufan,Error computing accuracy!
 ,perceptron,anthonysukotjo,Error computing accuracy!
 ,perceptron,Zhou1213CN,Error computing accuracy!
-,mlp,JoyJoyWang,Error computing accuracy!
