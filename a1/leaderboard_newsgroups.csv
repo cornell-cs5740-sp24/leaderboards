@@ -193,8 +193,6 @@ Score,Method,Member,Comment
 0.05258,mlp,Khushibhansali,
 0.05258,perceptron,K7S3,
 0.05258,mlp,K7S3,
-0.05258,perceptron,JoyJoyWang,
-0.05258,mlp,JoyJoyWang,
 0.05258,perceptron,JerryGgzm,
 0.05258,mlp,JerryGgzm,
 0.05258,perceptron,Jasoniee,
@@ -228,3 +226,5 @@ Score,Method,Member,Comment
 ,perceptron,iamyufan,Error computing accuracy!
 ,mlp,iamyufan,Error computing accuracy!
 ,perceptron,WenjieWangX,Error computing accuracy!
+,perceptron,JoyJoyWang,Error computing accuracy!
+,mlp,JoyJoyWang,Error computing accuracy!
