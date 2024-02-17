@@ -1,35 +1,38 @@
 Score,Method,Member,Comment
 0.82223,mlp,echo-cool,
 0.81559,perceptron,MaximClouser,
-0.79554,perceptron,ethan-yz-hao,
 0.79527,mlp,bwoody13,
+0.79514,perceptron,ethan-yz-hao,
 0.78784,mlp,angkywilliam,
 0.76447,perceptron,annetta-zheng,
 0.76009,perceptron,AlphaWhiskyLou,
 0.75783,mlp,AlphaWhiskyLou,
 0.75651,perceptron,bwoody13,
+0.74947,perceptron,chrystalquek,
 0.74283,perceptron,Kim-Sha,
 0.74124,perceptron,wingyiuc,
-0.72411,mlp,ethan-yz-hao,
 0.71309,mlp,wingyiuc,
 0.70712,perceptron,angkywilliam,
 0.70393,perceptron,anthonysukotjo,
 0.70141,perceptron,hyh628,
 0.68826,mlp,annetta-zheng,
+0.68601,mlp,ethan-yz-hao,
 0.67857,perceptron,lucassmulders,
+0.64618,mlp,zhangdah,
 0.64525,perceptron,echo-cool,
 0.63078,mlp,GSYfate,
+0.61139,mlp,JoyJoyWang,
 0.58218,mlp,erinmurphy11,
 0.57488,perceptron,erinmurphy11,
+0.53664,perceptron,JoyJoyWang,
+0.52363,mlp,chrystalquek,
 0.48938,perceptron,AmonRS,
+0.45101,perceptron,zhangdah,
 0.0547,mlp,MaximClouser,
 0.05258,perceptron,zhouaad,
 0.05258,mlp,zhouaad,
-0.05258,perceptron,zhangdah,
 0.05258,perceptron,zezhili,
 0.05258,mlp,zezhili,
-0.05258,perceptron,yueqih999,
-0.05258,mlp,yueqih999,
 0.05258,perceptron,ysygMhdyt,
 0.05258,mlp,ysygMhdyt,
 0.05258,perceptron,yixuan-wyx,
@@ -64,6 +67,8 @@ Score,Method,Member,Comment
 0.05258,mlp,ruitian1212,
 0.05258,perceptron,rl792,
 0.05258,mlp,rl792,
+0.05258,perceptron,quynhtdang,
+0.05258,mlp,quynhtdang,
 0.05258,perceptron,peter2520,
 0.05258,mlp,peter2520,
 0.05258,perceptron,pandaofhead,
@@ -224,13 +229,9 @@ Score,Method,Member,Comment
 0.05258,perceptron,984580403hyxhj,
 0.05258,mlp,984580403hyxhj,
 0.04713,mlp,DrDrewCain,
-,mlp,zhangdah,Error computing accuracy!
 ,perceptron,tz275,Error computing accuracy!
 ,perceptron,jioffe502,Error computing accuracy!
 ,perceptron,iamyufan,Error computing accuracy!
 ,mlp,iamyufan,Error computing accuracy!
-,perceptron,chrystalquek,Error computing accuracy!
-,mlp,chrystalquek,Error computing accuracy!
 ,perceptron,WenjieWangX,Error computing accuracy!
-,perceptron,JoyJoyWang,Error computing accuracy!
-,mlp,JoyJoyWang,Error computing accuracy!
+,perceptron,TechnoLuckkk,Error computing accuracy!
