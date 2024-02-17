@@ -1,25 +1,26 @@
 Score,Method,Member,Comment
 0.82223,mlp,echo-cool,
 0.81559,perceptron,MaximClouser,
+0.80736,perceptron,ethan-yz-hao,
 0.79527,mlp,bwoody13,
-0.79514,perceptron,ethan-yz-hao,
 0.78784,mlp,angkywilliam,
+0.77284,mlp,ethan-yz-hao,
 0.76447,perceptron,annetta-zheng,
 0.76009,perceptron,AlphaWhiskyLou,
 0.75783,mlp,AlphaWhiskyLou,
-0.75651,perceptron,bwoody13,
+0.75013,perceptron,bwoody13,
 0.74947,perceptron,chrystalquek,
 0.74283,perceptron,Kim-Sha,
 0.74124,perceptron,wingyiuc,
+0.72783,perceptron,hyh628,
+0.72544,mlp,Kim-Sha,
 0.71309,mlp,wingyiuc,
 0.70712,perceptron,angkywilliam,
 0.70393,perceptron,anthonysukotjo,
-0.70141,perceptron,hyh628,
 0.68826,mlp,annetta-zheng,
-0.68601,mlp,ethan-yz-hao,
 0.67857,perceptron,lucassmulders,
+0.64817,perceptron,echo-cool,
 0.64618,mlp,zhangdah,
-0.64525,perceptron,echo-cool,
 0.63078,mlp,GSYfate,
 0.61139,mlp,JoyJoyWang,
 0.58218,mlp,erinmurphy11,
@@ -28,7 +29,6 @@ Score,Method,Member,Comment
 0.52363,mlp,chrystalquek,
 0.48938,perceptron,AmonRS,
 0.45101,perceptron,zhangdah,
-0.0547,mlp,MaximClouser,
 0.05258,perceptron,zhouaad,
 0.05258,mlp,zhouaad,
 0.05258,perceptron,zezhili,
@@ -77,6 +77,8 @@ Score,Method,Member,Comment
 0.05258,mlp,ndmnh,
 0.05258,perceptron,mikezzb,
 0.05258,mlp,mikezzb,
+0.05258,perceptron,mhanlon236,
+0.05258,mlp,mhanlon236,
 0.05258,perceptron,madhavMathur,
 0.05258,mlp,madhavMathur,
 0.05258,mlp,lucassmulders,
@@ -100,8 +102,6 @@ Score,Method,Member,Comment
 0.05258,mlp,jro22,
 0.05258,perceptron,jrfeibelman,
 0.05258,mlp,jrfeibelman,
-0.05258,perceptron,jonathanchen301,
-0.05258,mlp,jonathanchen301,
 0.05258,mlp,jioffe502,
 0.05258,perceptron,jaekim123,
 0.05258,mlp,jaekim123,
@@ -174,7 +174,6 @@ Score,Method,Member,Comment
 0.05258,mlp,Nero-LL,
 0.05258,perceptron,Nathaniel-Nirmal,
 0.05258,mlp,Nathaniel-Nirmal,
-0.05258,perceptron,NIC397,
 0.05258,mlp,NIC397,
 0.05258,perceptron,Mraj23,
 0.05258,mlp,Mraj23,
@@ -196,7 +195,6 @@ Score,Method,Member,Comment
 0.05258,mlp,LeoBueno15,
 0.05258,perceptron,LancasterCT,
 0.05258,mlp,LancasterCT,
-0.05258,mlp,Kim-Sha,
 0.05258,perceptron,Khushibhansali,
 0.05258,mlp,Khushibhansali,
 0.05258,perceptron,K7S3,
@@ -228,10 +226,14 @@ Score,Method,Member,Comment
 0.05258,mlp,AAAngieShao,
 0.05258,perceptron,984580403hyxhj,
 0.05258,mlp,984580403hyxhj,
+0.05058,mlp,MaximClouser,
 0.04713,mlp,DrDrewCain,
 ,perceptron,tz275,Error computing accuracy!
+,perceptron,jonathanchen301,Error computing accuracy!
+,mlp,jonathanchen301,Error computing accuracy!
 ,perceptron,jioffe502,Error computing accuracy!
 ,perceptron,iamyufan,Error computing accuracy!
 ,mlp,iamyufan,Error computing accuracy!
 ,perceptron,WenjieWangX,Error computing accuracy!
 ,perceptron,TechnoLuckkk,Error computing accuracy!
+,perceptron,NIC397,Error computing accuracy!
