@@ -3,6 +3,7 @@ Score,Method,Team,Members,Comment
 0.09073,subword_n_gram,team20,AlphaWhiskyLou ethan-yz-hao,
 0.09459,subword_n_gram,team17,GSYfate zhangdah,
 0.10425,subword_n_gram,nolossprogrammers,GuralTOO arman0624 echo-cool,
+0.10618,subword_n_gram,nlp,ananya834 ivannikitovic,
 0.11004,transformer,team20,AlphaWhiskyLou ethan-yz-hao,
 0.11583,subword_n_gram,nlp_ppl,NIC397 jrfeibelman,
 0.11583,character_n_gram,team20,AlphaWhiskyLou ethan-yz-hao,
@@ -15,9 +16,11 @@ Score,Method,Team,Members,Comment
 0.11776,subword_n_gram,test404,RachelYanggg Shoudong-Zhu WenjieWangX,
 0.11969,character_n_gram,team17,GSYfate zhangdah,
 0.11969,character_n_gram,team27,AAAngieShao erinmurphy11 hst45,
+0.11969,character_n_gram,transformers-united,apirjani kevinwiranata,
 0.12355,character_n_gram,nlp_ppl,NIC397 jrfeibelman,
 0.12355,character_n_gram,squirrels,DrDrewCain anya-23-ct zezhili,
 0.12355,subword_n_gram,squirrels,DrDrewCain anya-23-ct zezhili,
+0.12548,subword_n_gram,transformers-united,apirjani kevinwiranata,
 0.12741,subword_n_gram,unqualified-capybara,984580403hyxhj Kim-Sha hanqi-zhou,
 0.13127,subword_n_gram,team27,AAAngieShao erinmurphy11 hst45,
 0.15444,character_n_gram,board-leaders,PasserBy4 Toison jihoonkim25 lucassmulders,
@@ -32,7 +35,6 @@ Score,Method,Team,Members,Comment
 0.15444,subword_n_gram,lang_learners,K7S3 Nathaniel-Nirmal Rohan-Narayan,
 0.15444,transformer,lang_learners,K7S3 Nathaniel-Nirmal Rohan-Narayan,
 0.15444,character_n_gram,nlp,ananya834 ivannikitovic,
-0.15444,subword_n_gram,nlp,ananya834 ivannikitovic,
 0.15444,transformer,nlp,ananya834 ivannikitovic,
 0.15444,transformer,nlp_ppl,NIC397 jrfeibelman,
 0.15444,character_n_gram,nlp_survivors,justinamo ysygMhdyt yueqih999,
@@ -81,5 +83,3 @@ Score,Method,Team,Members,Comment
 0.15444,character_n_gram,unqualified-capybara,984580403hyxhj Kim-Sha hanqi-zhou,
 0.15444,transformer,unqualified-capybara,984580403hyxhj Kim-Sha hanqi-zhou,
 0.15444,transformer,wer_wizards,connorpugh hyh628 theamzhao,
-,character_n_gram,transformers-united,apirjani kevinwiranata,Error computing correlation!
-,subword_n_gram,transformers-united,apirjani kevinwiranata,Error computing correlation!
