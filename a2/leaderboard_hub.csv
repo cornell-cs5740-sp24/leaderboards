@@ -1,6 +1,5 @@
 Score,Method,Team,Members,Comment
 0.05212,transformer,csp_nlp_a2,ChengaFEI ptempelman srilaasya,
-0.05212,subword_n_gram,nolastminute,Nero-LL ndmnh zhouaad,
 0.08687,transformer,team17,GSYfate zhangdah,
 0.09073,subword_n_gram,team20,AlphaWhiskyLou ethan-yz-hao,
 0.09459,subword_n_gram,team17,GSYfate zhangdah,
@@ -31,6 +30,7 @@ Score,Method,Team,Members,Comment
 0.12162,subword_n_gram,perplexed,Khushibhansali haranrk wingyiuc,
 0.12162,character_n_gram,squirtle,Marcozc19 Mercury-W-C-J angkywilliam,
 0.12355,character_n_gram,nlp_ppl,NIC397 jrfeibelman,
+0.12355,subword_n_gram,nolastminute,Nero-LL ndmnh zhouaad,
 0.12355,character_n_gram,squirrels,DrDrewCain anya-23-ct zezhili,
 0.12355,subword_n_gram,squirrels,DrDrewCain anya-23-ct zezhili,
 0.12355,subword_n_gram,squirtle,Marcozc19 Mercury-W-C-J angkywilliam,
