@@ -1,17 +1,32 @@
 Score,Method,Team,Members,Comment
-0.09075,transformer,team28,bwoody13 hboon3 mikezzb,
+0.06406,transformer,team28,bwoody13 hboon3 mikezzb,
 0.14769,transformer,nlp_ppl,NIC397 jrfeibelman,
-0.14947,subword_n_gram,team28,bwoody13 hboon3 mikezzb,
-0.15302,subword_n_gram,team17,GSYfate zhangdah,
+0.14769,subword_n_gram,team17,GSYfate zhangdah,
+0.1548,subword_n_gram,team28,bwoody13 hboon3 mikezzb,
+0.1548,transformer,unqualified-capybara,984580403hyxhj Kim-Sha hanqi-zhou,
 0.15836,subword_n_gram,thelanguageteam,Priyanshiguptaaa ThomasfjWiener jioffe502,
+0.16014,character_n_gram,notpayingattention,AmonRS aidanasingh annetta-zheng,
 0.16192,character_n_gram,tokentitans,AmirFone LeoBueno15 anthonysukotjo,
-0.16548,character_n_gram,team28,bwoody13 hboon3 mikezzb,
+0.1637,character_n_gram,thelanguageteam,Priyanshiguptaaa ThomasfjWiener jioffe502,
+0.16548,character_n_gram,transformers-united,apirjani kevinwiranata,
 0.16726,transformer,nolossprogrammers,GuralTOO arman0624 echo-cool,
 0.16726,character_n_gram,team17,GSYfate zhangdah,
+0.16726,subword_n_gram,team20,AlphaWhiskyLou ethan-yz-hao,
+0.16726,character_n_gram,team28,bwoody13 hboon3 mikezzb,
+0.16726,transformer,transformers-united,apirjani kevinwiranata,
 0.16904,subword_n_gram,unqualified-capybara,984580403hyxhj Kim-Sha hanqi-zhou,
+0.17082,character_n_gram,the_transformers,MaximClouser chrystalquek iamyufan jaackiekim,
+0.17082,character_n_gram,unqualified-capybara,984580403hyxhj Kim-Sha hanqi-zhou,
+0.17438,character_n_gram,nolossprogrammers,GuralTOO arman0624 echo-cool,
+0.17616,subword_n_gram,the_transformers,MaximClouser chrystalquek iamyufan jaackiekim,
 0.17794,transformer,board-leaders,PasserBy4 Toison jihoonkim25 lucassmulders,
+0.17794,character_n_gram,team20,AlphaWhiskyLou ethan-yz-hao,
 0.17794,transformer,test404,RachelYanggg Shoudong-Zhu WenjieWangX,
+0.18505,subword_n_gram,notpayingattention,AmonRS aidanasingh annetta-zheng,
+0.18683,subword_n_gram,transformers-united,apirjani kevinwiranata,
 0.19039,subword_n_gram,nolastminute,Nero-LL ndmnh zhouaad,
+0.19039,subword_n_gram,nolossprogrammers,GuralTOO arman0624 echo-cool,
+0.19039,transformer,notpayingattention,AmonRS aidanasingh annetta-zheng,
 0.19217,subword_n_gram,tokentitans,AmirFone LeoBueno15 anthonysukotjo,
 ,character_n_gram,board-leaders,PasserBy4 Toison jihoonkim25 lucassmulders,Error computing correlation!
 ,subword_n_gram,board-leaders,PasserBy4 Toison jihoonkim25 lucassmulders,Error computing correlation!
@@ -34,11 +49,6 @@ Score,Method,Team,Members,Comment
 ,transformer,nlp_survivors,justinamo ysygMhdyt yueqih999,Error computing correlation!
 ,character_n_gram,nolastminute,Nero-LL ndmnh zhouaad,Error computing correlation!
 ,transformer,nolastminute,Nero-LL ndmnh zhouaad,Error computing correlation!
-,character_n_gram,nolossprogrammers,GuralTOO arman0624 echo-cool,Error computing correlation!
-,subword_n_gram,nolossprogrammers,GuralTOO arman0624 echo-cool,Error computing correlation!
-,character_n_gram,notpayingattention,AmonRS aidanasingh annetta-zheng,Error computing correlation!
-,subword_n_gram,notpayingattention,AmonRS aidanasingh annetta-zheng,Error computing correlation!
-,transformer,notpayingattention,AmonRS aidanasingh annetta-zheng,Error computing correlation!
 ,character_n_gram,perplexed,Khushibhansali haranrk wingyiuc,Error computing correlation!
 ,subword_n_gram,perplexed,Khushibhansali haranrk wingyiuc,Error computing correlation!
 ,transformer,perplexed,Khushibhansali haranrk wingyiuc,Error computing correlation!
@@ -48,8 +58,6 @@ Score,Method,Team,Members,Comment
 ,character_n_gram,squirtle,Marcozc19 Mercury-W-C-J angkywilliam,Error computing correlation!
 ,subword_n_gram,squirtle,Marcozc19 Mercury-W-C-J angkywilliam,Error computing correlation!
 ,transformer,squirtle,Marcozc19 Mercury-W-C-J angkywilliam,Error computing correlation!
-,character_n_gram,team20,AlphaWhiskyLou ethan-yz-hao,Error computing correlation!
-,subword_n_gram,team20,AlphaWhiskyLou ethan-yz-hao,Error computing correlation!
 ,transformer,team20,AlphaWhiskyLou ethan-yz-hao,Error computing correlation!
 ,character_n_gram,team25,JoyJoyWang peter2520 srjsissel,Error computing correlation!
 ,subword_n_gram,team25,JoyJoyWang peter2520 srjsissel,Error computing correlation!
@@ -62,10 +70,7 @@ Score,Method,Team,Members,Comment
 ,character_n_gram,tests,keyxxxxx,Error computing correlation!
 ,subword_n_gram,tests,keyxxxxx,Error computing correlation!
 ,transformer,tests,keyxxxxx,Error computing correlation!
-,character_n_gram,the_transformers,MaximClouser chrystalquek iamyufan jaackiekim,Error computing correlation!
-,subword_n_gram,the_transformers,MaximClouser chrystalquek iamyufan jaackiekim,Error computing correlation!
 ,transformer,the_transformers,MaximClouser chrystalquek iamyufan jaackiekim,Error computing correlation!
-,character_n_gram,thelanguageteam,Priyanshiguptaaa ThomasfjWiener jioffe502,Error computing correlation!
 ,transformer,thelanguageteam,Priyanshiguptaaa ThomasfjWiener jioffe502,Error computing correlation!
 ,character_n_gram,titanic,Jasoniee tz275 weiweimonster,Error computing correlation!
 ,subword_n_gram,titanic,Jasoniee tz275 weiweimonster,Error computing correlation!
@@ -74,11 +79,6 @@ Score,Method,Team,Members,Comment
 ,character_n_gram,transformer,CindyCindy424 Garethsun11 yz26cn,Error computing correlation!
 ,subword_n_gram,transformer,CindyCindy424 Garethsun11 yz26cn,Error computing correlation!
 ,transformer,transformer,CindyCindy424 Garethsun11 yz26cn,Error computing correlation!
-,character_n_gram,transformers-united,apirjani kevinwiranata,Error computing correlation!
-,subword_n_gram,transformers-united,apirjani kevinwiranata,Error computing correlation!
-,transformer,transformers-united,apirjani kevinwiranata,Error computing correlation!
-,character_n_gram,unqualified-capybara,984580403hyxhj Kim-Sha hanqi-zhou,Error computing correlation!
-,transformer,unqualified-capybara,984580403hyxhj Kim-Sha hanqi-zhou,Error computing correlation!
 ,character_n_gram,wer_wizards,connorpugh hyh628 theamzhao,Error computing correlation!
 ,subword_n_gram,wer_wizards,connorpugh hyh628 theamzhao,Error computing correlation!
 ,transformer,wer_wizards,connorpugh hyh628 theamzhao,Error computing correlation!
