@@ -31,6 +31,7 @@ Score,Method,Team,Members,Comment
 0.16726,subword_n_gram,team25,JoyJoyWang peter2520 srjsissel,
 0.16726,character_n_gram,team28,bwoody13 hboon3 mikezzb,
 0.16904,character_n_gram,transformer,CindyCindy424 Garethsun11 yz26cn,
+0.16904,transformer,transformer,CindyCindy424 Garethsun11 yz26cn,
 0.16904,subword_n_gram,unqualified-capybara,984580403hyxhj Kim-Sha hanqi-zhou,
 0.17082,character_n_gram,the_transformers,MaximClouser chrystalquek iamyufan jaackiekim,
 0.17082,character_n_gram,unqualified-capybara,984580403hyxhj Kim-Sha hanqi-zhou,
@@ -79,7 +80,6 @@ Score,Method,Team,Members,Comment
 ,character_n_gram,titanic,Jasoniee tz275 weiweimonster,Error computing correlation!
 ,subword_n_gram,titanic,Jasoniee tz275 weiweimonster,Error computing correlation!
 ,transformer,tokentitans,AmirFone LeoBueno15 anthonysukotjo,Error computing correlation!
-,transformer,transformer,CindyCindy424 Garethsun11 yz26cn,Error computing correlation!
 ,character_n_gram,wer_wizards,connorpugh hyh628 theamzhao,Error computing correlation!
 ,subword_n_gram,wer_wizards,connorpugh hyh628 theamzhao,Error computing correlation!
 ,transformer,wer_wizards,connorpugh hyh628 theamzhao,Error computing correlation!
