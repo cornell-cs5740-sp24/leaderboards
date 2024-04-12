@@ -9,6 +9,7 @@ Score,Method,Member,Comment
 0.11357,gpt2,echo-cool,
 0.10407,word2vec,AlphaWhiskyLou,
 0.0568,word2vec,mikezzb,
+0.04326,word2vec,hanqi-zhou,
 0.03221,word2vec,ThomasfjWiener,
 0.02972,word2vec,LeoBueno15,
 0.02931,gpt2,zhouaad,
@@ -207,5 +208,4 @@ Score,Method,Member,Comment
 -0.02733,bert,AmirFone,
 -0.02733,bert,AlphaWhiskyLou,
 -0.02733,bert,984580403hyxhj,
--0.11971,word2vec,hanqi-zhou,
 -0.12724,word2vec,WenjieWangX,
