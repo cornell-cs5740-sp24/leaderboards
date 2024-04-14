@@ -119,7 +119,6 @@ Score,Method,Member,Comment
 0.02895,gpt2,AlphaWhiskyLou,
 0.02895,gpt2,984580403hyxhj,
 0.02839,word2vec,ptempelman,
-0.00842,word2vec,AmirFone,
 0.0,word2vec,iamyufan,
 -0.00114,bert,JoyJoyWang,
 -0.01034,gpt2,JoyJoyWang,
@@ -225,3 +224,4 @@ Score,Method,Member,Comment
 -0.07549,word2vec,CindyCindy424,
 -0.07549,word2vec,AmonRS,
 -0.0967,word2vec,hanqi-zhou,
+,word2vec,AmirFone,Error computing correlation!
