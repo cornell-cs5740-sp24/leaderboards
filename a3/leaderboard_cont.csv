@@ -34,6 +34,7 @@ Score,Method,Member,Comment
 0.11362,word2vec,K7S3,
 0.11302,word2vec,yueqih999,
 0.10563,bert,Nero-LL,
+0.09994,word2vec,Kim-Sha,
 0.07461,word2vec,JoyJoyWang,
 0.06348,word2vec,Rohan-Narayan,
 0.05653,word2vec,jrfeibelman,
@@ -140,7 +141,6 @@ Score,Method,Member,Comment
 -0.00453,word2vec,anthonysukotjo,
 -0.00453,word2vec,angkywilliam,
 -0.00453,word2vec,ananya834,
--0.00453,word2vec,Toison,
 -0.00453,word2vec,SrijeetaBiswas,
 -0.00453,word2vec,Shoudong-Zhu,
 -0.00453,word2vec,Priyanshiguptaaa,
@@ -226,5 +226,5 @@ Score,Method,Member,Comment
 -0.02733,bert,984580403hyxhj,
 -0.02774,gpt2,WenjieWangX,
 -0.04736,bert,JoyJoyWang,
--0.14535,word2vec,theamzhao,
-,word2vec,Kim-Sha,Error computing correlation!
+-0.09296,word2vec,Toison,
+-0.16076,word2vec,theamzhao,
