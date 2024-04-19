@@ -1,5 +1,8 @@
 Score,Method,Member,Comment
+0.68641,bert,bwoody13,
 0.67459,bert,ChengaFEI,
+0.6442,gpt2,bwoody13,
+0.63714,bert,jioffe502,
 0.63487,bert,chrystalquek,
 0.63484,bert,wingyiuc,
 0.62682,bert,AlphaWhiskyLou,
@@ -16,6 +19,7 @@ Score,Method,Member,Comment
 0.33229,word2vec,iamyufan,
 0.32297,word2vec,GSYfate,
 0.31808,word2vec,bwoody13,
+0.30926,word2vec,MaximClouser,
 0.30303,word2vec,srjsissel,
 0.30044,word2vec,zezhili,
 0.29985,word2vec,Kim-Sha,
@@ -31,9 +35,10 @@ Score,Method,Member,Comment
 0.23745,word2vec,ivannikitovic,
 0.23636,word2vec,echo-cool,
 0.23333,word2vec,ptempelman,
+0.23182,word2vec,Marcozc19,
+0.22864,word2vec,angkywilliam,
 0.21435,word2vec,hanqi-zhou,
 0.21253,word2vec,ThomasfjWiener,
-0.20978,word2vec,MaximClouser,
 0.18568,word2vec,jioffe502,
 0.15885,word2vec,zhangdah,
 0.15403,word2vec,Mercury-W-C-J,
@@ -41,11 +46,9 @@ Score,Method,Member,Comment
 0.14895,gpt2,ptempelman,
 0.14878,word2vec,Garethsun11,
 0.14654,word2vec,gabidb,
-0.1429,word2vec,Rohan-Narayan,
+0.14238,word2vec,Rohan-Narayan,
 0.14152,word2vec,ysygMhdyt,
 0.13939,word2vec,ethan-yz-hao,
-0.12249,word2vec,angkywilliam,
-0.1191,word2vec,Marcozc19,
 0.11538,gpt2,echo-cool,
 0.11302,word2vec,yueqih999,
 0.09277,gpt2,RachelYanggg,
@@ -172,7 +175,6 @@ Score,Method,Member,Comment
 -0.02733,bert,kevinwiranata,
 -0.02733,bert,justinamo,
 -0.02733,bert,jrfeibelman,
--0.02733,bert,jioffe502,
 -0.02733,bert,jihoonkim25,
 -0.02733,bert,jaackiekim,
 -0.02733,bert,ivannikitovic,
@@ -226,7 +228,5 @@ Score,Method,Member,Comment
 ,word2vec,ndmnh,Error computing correlation: the score is nan
 ,bert,ndmnh,Error computing correlation: the score is nan
 ,gpt2,ndmnh,Error computing correlation: the score is nan
-,bert,bwoody13,Embedding size exceeds 1024!
-,gpt2,bwoody13,Embedding size exceeds 1024!
 ,bert,Nero-LL,Embedding size exceeds 1024!
 ,gpt2,Nero-LL,Error computing correlation: the score is nan
