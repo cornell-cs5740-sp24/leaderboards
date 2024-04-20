@@ -213,6 +213,7 @@ Score,Method,Member,Comment
 -0.04385,bert,CindyCindy424,
 -0.04385,bert,AmonRS,
 -0.04385,bert,AmirFone,
+-0.0451,bert,984580403hyxhj,
 -0.04814,word2vec,jihoonkim25,
 -0.05122,word2vec,apirjani,
 -0.07549,word2vec,zhenghuawang6,
@@ -226,7 +227,6 @@ Score,Method,Member,Comment
 -0.07549,word2vec,Khushibhansali,
 -0.07549,word2vec,GuralTOO,
 -0.07549,word2vec,DrDrewCain,
+-0.14496,gpt2,984580403hyxhj,
 -0.18061,word2vec,Toison,
 ,gpt2,arman0624,Embedding size exceeds 1024!
-,bert,984580403hyxhj,
-,gpt2,984580403hyxhj,
