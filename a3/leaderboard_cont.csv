@@ -103,6 +103,7 @@ Score,Method,Member,Comment
 0.15403,word2vec,Mercury-W-C-J,
 0.15,word2vec,hyh628,
 0.14964,word2vec,jihoonkim25,
+0.14723,gpt2,yueqih999,
 0.14654,word2vec,gabidb,
 0.14025,word2vec,AmirFone,
 0.13995,bert,Rohan-Narayan,
@@ -231,5 +232,4 @@ Score,Method,Member,Comment
 -0.04736,gpt2,iamyufan,
 -0.11346,word2vec,Toison,
 -0.12522,word2vec,K7S3,
-,gpt2,yueqih999,
 ,word2vec,jrfeibelman,
