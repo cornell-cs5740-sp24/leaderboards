@@ -19,6 +19,7 @@ Score,Method,Member,Comment
 0.65186,bert,LeoBueno15,
 0.65168,bert,echo-cool,
 0.65138,bert,Mercury-W-C-J,
+0.6508,bert,kevinwiranata,
 0.65077,bert,genpira13,
 0.65056,bert,zhangdah,
 0.64998,bert,jihoonkim25,
@@ -233,6 +234,5 @@ Score,Method,Member,Comment
 -0.11346,word2vec,Toison,
 -0.12522,word2vec,K7S3,
 ,bert,yueqih999,
-,bert,kevinwiranata,Error computing correlation: the score is nan
 ,gpt2,kevinwiranata,Error computing correlation: the score is nan
 ,word2vec,jrfeibelman,
