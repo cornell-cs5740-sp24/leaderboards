@@ -134,7 +134,6 @@ Score,Method,Member,Comment
 0.0596,gpt2,AmonRS,
 0.05563,word2vec,jihoonkim25,
 0.05271,word2vec,GuralTOO,
-0.04775,bert,ndmnh,
 0.04775,bert,genpira13,
 0.04658,word2vec,connorpugh,
 0.04475,word2vec,K7S3,
@@ -233,6 +232,7 @@ Score,Method,Member,Comment
 ,bert,yueqih999,Error reading result embeddings!
 ,bert,theamzhao,Error computing correlation!
 ,gpt2,theamzhao,
+,bert,ndmnh,Embedding size exceeds 1024!
 ,gpt2,kevinwiranata,Error computing correlation: the score is nan
 ,word2vec,Khushibhansali,Error computing correlation!
 ,gpt2,AmirFone,Error computing correlation: the score is nan
