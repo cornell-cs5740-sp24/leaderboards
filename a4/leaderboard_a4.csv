@@ -1,4 +1,5 @@
 Record F1,Method,Member,Comment
+0.14181,t5_ft,RachelYanggg,
 0.00000,llm,yueqih999,
 0.00000,t5_ft,yueqih999,
 0.00000,t5_scr,yueqih999,
@@ -66,7 +67,6 @@ Record F1,Method,Member,Comment
 0.00000,t5_ft,SrijeetaBiswas,
 0.00000,t5_scr,SrijeetaBiswas,
 0.00000,llm,RachelYanggg,
-0.00000,t5_ft,RachelYanggg,
 0.00000,t5_scr,RachelYanggg,
 0.00000,llm,Priyanshiguptaaa,
 0.00000,t5_ft,Priyanshiguptaaa,
@@ -74,6 +74,9 @@ Record F1,Method,Member,Comment
 0.00000,llm,Nero-LL,
 0.00000,t5_ft,Nero-LL,
 0.00000,t5_scr,Nero-LL,
+0.00000,llm,Mercury-W-C-J,
+0.00000,t5_ft,Mercury-W-C-J,
+0.00000,t5_scr,Mercury-W-C-J,
 0.00000,llm,MaximClouser,
 0.00000,t5_ft,MaximClouser,
 0.00000,t5_scr,MaximClouser,
